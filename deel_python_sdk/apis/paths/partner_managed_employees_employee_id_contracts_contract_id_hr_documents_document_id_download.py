@@ -1,0 +1,7 @@
+from deel_python_sdk.paths.partner_managed_employees_employee_id_contracts_contract_id_hr_documents_document_id_download.get import ApiForget
+
+
+class PartnerManagedEmployeesEmployeeIdContractsContractIdHrDocumentsDocumentIdDownload(
+    ApiForget,
+):
+    pass
